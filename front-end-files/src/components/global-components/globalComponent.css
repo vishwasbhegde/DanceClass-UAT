@@ -1,0 +1,12 @@
+.bg-dark a{
+    color: white;
+}
+.bg-dark a:hover{
+    color: color(srgb 0.1653 0.5927 0.8283);
+}
+.sticky-navbar {
+    position: sticky;
+    top: 0;
+    z-index: 1000; /* Ensures the navbar stays above other content */
+    width: 100%;
+  }
